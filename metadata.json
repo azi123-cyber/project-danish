@@ -1,0 +1,6 @@
+{
+  "name": "Pengingat Minum Obat - Reminder Harian",
+  "description": "Aplikasi pengingat jadwal minum obat harian dengan notifikasi tepat waktu, pelacak stok, dan riwayat kepatuhan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
